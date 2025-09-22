@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm MatthewADIAN 👋
+
+🌟 **Full Stack Software Engineer**  
+A passionate developer who loves integrating existing applications with cutting-edge AI, always eager to learn new things in programming and artificial intelligence.
+
+---
+
+## 🚀 What I Do
+
+- **Languages & Frameworks:**  
+  - C# .NET  
+  - JavaScript (React & React Native)
+- **Cloud & AI Platforms:**  
+  - Power Platform (Power Apps, Power Automate)
+  - Azure AI (LLM, Azure Open AI, Prompt Flow, Document Intelligence)
+- **AI Integration:**  
+  - Building and integrating chatbots using Azure Prompt Flow and other Azure AI services
+
+---
+
+## 💡 About Me
+
+- Always excited to connect applications with the latest AI technologies
+- I thrive on solving problems—especially algorithmic challenges!
+- Continuously following Microsoft's AI advancements and exploring new programming trends
+
+---
+
+## 🧠 Fun Fact
+
+> "Programming is fun, solving problem in algorithm is more fun"
+
+---
 
 <!--
-**MatthewADIAN/MatthewADIAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**MatthewADIAN/MatthewADIAN** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
 -->
