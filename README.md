@@ -9,7 +9,7 @@ A passionate developer who loves integrating existing applications with cutting-
 
 - **Languages & Frameworks:**  
   - C# .NET  
-  - JavaScript (React & React Native)
+  - JavaScript & TypeScript (React & React Native)
 - **Cloud & AI Platforms:**  
   - Power Platform (Power Apps, Power Automate)
   - Azure AI (LLM, Azure Open AI, Prompt Flow, Document Intelligence)
